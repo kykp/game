@@ -52,37 +52,37 @@
 #id1 {
   left: 10px;
   top: 50px;
-  background-image: url(/car.png);
+  background-image: url(./img/car_blue.svg);
   background-repeat: no-repeat;
 }
 #id2 {
   left: 10px;
   top: 150px;
-  background-image: url(/img/car_darkBlue.svg);
+  background-image: url(./img/car_darkBlue.svg);
   background-repeat: no-repeat;
 }
 #id3 {
   left: 10px;
   top: 250px;
-  background-image: url(/img/car_green.svg);
+  background-image: url(./img/car_green.svg);
   background-repeat: no-repeat;
 }
 #id4 {
   left: 10px;
   top: 350px;
-  background-image: url(/img/car_orange.svg);
+  background-image: url(./img/car_orange.svg);
   background-repeat: no-repeat;
 }
 #id5 {
   left: 10px;
   top: 450px;
-  background-image: url(/img/car_purp.svg);
+  background-image: url(./img/car_purp.svg);
   background-repeat: no-repeat;
 }
 #id6 {
   left: 10px;
   top: 550px;
-  background-image: url(/img/car_red.svg);
+  background-image: url(./img/car_red.svg);
   background-repeat: no-repeat;
 }
 
